@@ -27,3 +27,7 @@ TAGS*~
 git-src
 .project
 .cproject
+
+mydiffconfig
+
+config\.seed
